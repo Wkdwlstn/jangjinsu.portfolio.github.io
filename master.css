@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.menu{
+    position: relative;
+    width: 1920px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #77AAFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.port{
+    position: relative;
+    width: 1920px;
+    background-image: url(img/bg1.png);
+    margin: 0 auto;
+    border: 0px solid red;
+}
+
+.wrap{
+    position: relative;
+    width: 1920px;
+    margin: 0 auto;
+    border: 0px solid red;
+}
+
+.cont1{
+    background-color: #77AAFD;
+}
+
+.cont3{
+    background-color: #77AAFD;
+}
+
+.cont5{
+    background-color: #77AAFD;
+}
